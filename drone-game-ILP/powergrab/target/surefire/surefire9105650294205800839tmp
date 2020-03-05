@@ -1,0 +1,26 @@
+#surefire
+#Sat Nov 23 13:18:57 GMT 2019
+testClassesDirectory=/afs/inf.ed.ac.uk/user/s17/s1725018/eclipse-workspace/ILP/powergrab/target/test-classes
+classPathUrl.4=/afs/inf.ed.ac.uk/user/s17/s1725018/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar
+classPathUrl.3=/afs/inf.ed.ac.uk/user/s17/s1725018/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar
+classPathUrl.2=/afs/inf.ed.ac.uk/user/s17/s1725018/.m2/repository/com/mapbox/mapboxsdk/mapbox-sdk-geojson/4.9.0/mapbox-sdk-geojson-4.9.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=/afs/inf.ed.ac.uk/user/s17/s1725018/eclipse-workspace/ILP/powergrab/target/classes
+reportsDirectory=/afs/inf.ed.ac.uk/user/s17/s1725018/eclipse-workspace/ILP/powergrab/target/surefire-reports
+classPathUrl.0=/afs/inf.ed.ac.uk/user/s17/s1725018/eclipse-workspace/ILP/powergrab/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/afs/inf.ed.ac.uk/user/s17/s1725018/eclipse-workspace/ILP/powergrab/src/test/java
+surefireClassPathUrl.1=/afs/inf.ed.ac.uk/user/s17/s1725018/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/afs/inf.ed.ac.uk/user/s17/s1725018/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=uk.ac.ed.inf.powergrab.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/afs/inf.ed.ac.uk/user/s17/s1725018/eclipse-workspace/ILP/powergrab/.surefire-A0F79081739A90CA5D466D565B17454E5E362F3F
+includes0=**/Test*.java
+childDelegation=false
